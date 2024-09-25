@@ -29,12 +29,6 @@
     { "id": 27, "title": "WARBORN", "image": "assets/games/game27.png" },
     { "id": 28, "title": "Scarlet Hollow", "image": "assets/games/game28.png" },
     { "id": 29, "title": "The Captain", "image": "assets/games/game29.png" },
-    { "id": 30, "title": "Pixel Heist", "image": "assets/games/game30.png" },
-    { "id": 31, "title": "Paper Tanks", "image": "assets/games/game31.png" },
-    { "id": 32, "title": "Rabbit story", "image": "assets/games/game32.png" },
-    { "id": 33, "title": "Underhero", "image": "assets/games/game33.png" },
-    { "id": 34, "title": "Raji: An Ancient Epic", "image": "assets/games/game34.png" },
-    { "id": 35, "title": "Pile Up", "image": "assets/games/game35.png" },
-    { "id": 36, "title": "Only if", "image": "assets/games/game36.png" }
+    { "id": 30, "title": "Pixel Heist", "image": "assets/games/game30.png" }
   ]
 }
